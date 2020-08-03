@@ -20,7 +20,7 @@ namespace GoogleEmail
 
         private void SendMail_Click(object sender, EventArgs e)
         {
-
+            //test
             string YuorGoogleAddress = "";
             string YuorGooglePassword="";
             System.Net.Mail.MailMessage msg = new System.Net.Mail.MailMessage();
